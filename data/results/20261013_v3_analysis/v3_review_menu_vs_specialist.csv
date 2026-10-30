@@ -1,0 +1,4 @@
+n_target,n_units,rc5_band_median,rc5_nominal_median,specialist_menu_rc_median,band_pool_full_rc_median,specialist_cost_note,band_beats_specialist,band_ties_specialist,nominal_beats_specialist
+24,10,21.248,18.592,22.176,21.248,66xD,0/10,0/10,0/10
+48,10,42.256,37.296,43.84,42.464,66xD,0/10,0/10,0/10
+100,10,71.36,67.056,72.0,71.36,66xD,0/10,5/10,0/10

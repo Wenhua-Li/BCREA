@@ -1,0 +1,10 @@
+n_target,spread,n_units,rel_spread_median_pct,rounds_per_target
+24,conc,30,2.7,3.75
+24,disp,30,5.27,3.75
+24,all,160,4.33,3.75
+48,conc,30,2.73,1.875
+48,disp,30,2.87,1.875
+48,all,70,3.19,1.875
+100,conc,30,9.87,0.9
+100,disp,30,9.71,0.9
+100,all,70,9.67,0.9

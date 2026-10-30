@@ -1,0 +1,10 @@
+n_target,method,n_units,fielded_nominal_gap_median_pct,fielded_nominal_gap_p90_pct,pool_best_gap_median_pct,menu_size_median
+24,bcrea_band,160,2.016,2.554,1.882,5.0
+48,bcrea_band,70,2.553,4.113,2.376,5.0
+100,bcrea_band,70,0.0,0.0,0.0,5.0
+24,bcrea_strict,160,1.613,2.151,1.495,5.0
+48,bcrea_strict,70,1.702,2.695,1.56,5.0
+100,bcrea_strict,70,0.0,0.0,0.0,5.0
+24,sampled_wc,160,0.672,1.21,0.672,5.0
+48,sampled_wc,70,0.638,1.56,0.567,5.0
+100,sampled_wc,70,0.0,0.0,0.0,5.0

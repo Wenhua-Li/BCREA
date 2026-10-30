@@ -1,0 +1,11 @@
+selection,instance,method,seed,gamma,eq_size,mstar_milp,mstar_brute,brute_cap,brute_fully_determined,agree,n_subsets_checked
+random_24,i7,nominal,10,2,48,1,1,4,1,1,8
+random_24,gen24_conc_03,nominal,7,2,48,1,1,4,1,1,37
+random_24,gen24_conc_02,nominal,9,2,48,1,1,4,1,1,23
+random_24,i5,nominal,7,2,48,1,1,4,1,1,1
+random_24,i1,nominal,2,2,48,1,1,4,1,1,6
+mstar_ge2,i7,bcrea_strict,3,2,19,2,2,4,1,1,56
+mstar_ge2,gen48_disp_01,nsga2,5,2,5,2,2,4,1,1,9
+mstar_ge2,i5,bcrea_strict,1,2,44,2,2,4,1,1,167
+mstar_ge2,i2,bcrea_strict,4,2,34,4,4,4,1,1,7593
+mstar_ge2,i11,bcrea_strict,1,2,22,2,2,4,1,1,81

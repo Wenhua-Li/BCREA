@@ -1,0 +1,62 @@
+{
+  "Info_enemy_1.mat": {
+    "bytes": 758,
+    "sha256": "7e534e6d77384959240609662cf7ea230d7410bdbcd3a5c665a4e99cbe86f5dc",
+    "source": "KCEA TEVC benchmark suite (Info_enemy_*.mat)"
+  },
+  "Info_enemy_10.mat": {
+    "bytes": 759,
+    "sha256": "d47ee6627096685ce35ee53201dc41f28391f7cc4d15f71719179bc5c7641314",
+    "source": "KCEA TEVC benchmark suite (Info_enemy_*.mat)"
+  },
+  "Info_enemy_100.mat": {
+    "bytes": 2487,
+    "sha256": "58d61f54806940c6d9c350cc2a70f8bd5cf8bc60fb2d1edd269163ceec083c5a",
+    "source": "KCEA TEVC benchmark suite (Info_enemy_*.mat)"
+  },
+  "Info_enemy_11.mat": {
+    "bytes": 1157,
+    "sha256": "cdeb913d59f3cd3c1596b66a6535f0a8238a61ca479aa3b31fff968626c731a7",
+    "source": "KCEA TEVC benchmark suite (Info_enemy_*.mat)"
+  },
+  "Info_enemy_2.mat": {
+    "bytes": 756,
+    "sha256": "0ebc3428e44dce8f8223540def0935cc37d5845e447f25ea432c5f07fd6343e6",
+    "source": "KCEA TEVC benchmark suite (Info_enemy_*.mat)"
+  },
+  "Info_enemy_3.mat": {
+    "bytes": 732,
+    "sha256": "11430030faa5bb885de9252f1f173a75d7ef3f585fbf25b6a21b6236cb700b9d",
+    "source": "KCEA TEVC benchmark suite (Info_enemy_*.mat)"
+  },
+  "Info_enemy_4.mat": {
+    "bytes": 768,
+    "sha256": "daeb6abfa4c7b20e4c96a8d1e4621e67d201d7986eb144f46d0b7d7da92fd5aa",
+    "source": "KCEA TEVC benchmark suite (Info_enemy_*.mat)"
+  },
+  "Info_enemy_5.mat": {
+    "bytes": 743,
+    "sha256": "a3b5696cbbf43b3d8a035316dac89df722ed36859698444459c41ba81924698c",
+    "source": "KCEA TEVC benchmark suite (Info_enemy_*.mat)"
+  },
+  "Info_enemy_6.mat": {
+    "bytes": 769,
+    "sha256": "9a78366fc78768647c0af2e66367aed8d91fa015d5189161f5f2d926e4717686",
+    "source": "KCEA TEVC benchmark suite (Info_enemy_*.mat)"
+  },
+  "Info_enemy_7.mat": {
+    "bytes": 748,
+    "sha256": "e3983eefba3fd17d35aa1038c5732a02001826b208170c45eab486e4b734371d",
+    "source": "KCEA TEVC benchmark suite (Info_enemy_*.mat)"
+  },
+  "Info_enemy_8.mat": {
+    "bytes": 768,
+    "sha256": "2dd13b62fda34d8a2b6bce7814b4c628cdccf557b210e4c22c5fcd60f303ccd5",
+    "source": "KCEA TEVC benchmark suite (Info_enemy_*.mat)"
+  },
+  "Info_enemy_9.mat": {
+    "bytes": 753,
+    "sha256": "dcd04c29f2b0f9da8b01b66668b7a15445ce7cadb7ecac0fe9ab3e1afb8a2d80",
+    "source": "KCEA TEVC benchmark suite (Info_enemy_*.mat)"
+  }
+}

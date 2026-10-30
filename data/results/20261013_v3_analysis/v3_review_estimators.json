@@ -1,0 +1,30 @@
+{
+ "24": {
+  "rc5_relative_gain_median_pct": 15.27,
+  "rc5_absolute_gain_median": 2.912,
+  "deg_relative_drop_median_pct": 91.17,
+  "deg_absolute_drop_median": 4.039,
+  "n_units": 160
+ },
+ "48": {
+  "rc5_relative_gain_median_pct": 11.48,
+  "rc5_absolute_gain_median": 4.432,
+  "deg_relative_drop_median_pct": 76.42,
+  "deg_absolute_drop_median": 5.886,
+  "n_units": 70
+ },
+ "100": {
+  "rc5_relative_gain_median_pct": 6.67,
+  "rc5_absolute_gain_median": 4.48,
+  "deg_relative_drop_median_pct": 85.71,
+  "deg_absolute_drop_median": 7.87,
+  "n_units": 70
+ },
+ "all": {
+  "rc5_relative_gain_median_pct": 11.0,
+  "rc5_absolute_gain_median": 3.52,
+  "deg_relative_drop_median_pct": 85.63,
+  "deg_absolute_drop_median": 4.913,
+  "n_units": 300
+ }
+}

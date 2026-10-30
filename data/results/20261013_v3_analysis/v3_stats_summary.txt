@@ -1,0 +1,27 @@
+v3 配对统计摘要（Wilcoxon 符号秩，双侧；Holm 在每个 subset|metric|variant 族内校正）
+
+subset metric              variant       opponent     n   胜负/并列  Δ中位     p       p_holm  r_rb
+all    rc5               BCREA-band   nominal     300 300/  0/  0  +3.5200 6.07e-51 2.43e-50 +1.000
+all    rc5               BCREA-band   pessimistic 300 135/132/ 33  +0.0000 4.93e-01 9.86e-01 +0.048
+all    rc5               BCREA-band   sampled-WC  300  46/205/ 49  -0.2560 1.14e-22 3.42e-22 -0.713
+all    rc5               BCREA-band   NSGA-II     300 122/138/ 40  +0.0000 8.96e-01 9.86e-01 +0.009
+all    rc5               BCREA-strict nominal     300 298/  2/  0  +3.2640 6.48e-51 2.59e-50 +1.000
+all    rc5               BCREA-strict pessimistic 300 102/166/ 32  -0.1280 7.20e-05 7.20e-05 -0.280
+all    rc5               BCREA-strict sampled-WC  300  20/233/ 47  -0.4800 4.66e-38 1.40e-37 -0.935
+all    rc5               BCREA-strict NSGA-II     300  77/178/ 45  -0.1280 1.75e-12 3.50e-12 -0.509
+all    deg_in_band_mean  BCREA-band   nominal     300 300/  0/  0  -4.9129 6.08e-51 2.43e-50 -1.000
+all    deg_in_band_mean  BCREA-band   pessimistic 300  97/203/  0  +0.7427 1.68e-24 5.05e-24 +0.680
+all    deg_in_band_mean  BCREA-band   sampled-WC  300 137/163/  0  +0.0314 3.75e-02 3.75e-02 +0.139
+all    deg_in_band_mean  BCREA-band   NSGA-II     300 184/116/  0  -0.1034 7.26e-04 1.45e-03 -0.225
+all    deg_in_band_mean  BCREA-strict nominal     300 300/  0/  0  -4.5567 6.08e-51 2.43e-50 -1.000
+all    deg_in_band_mean  BCREA-strict pessimistic 300  56/244/  0  +1.2454 6.05e-37 1.21e-36 +0.846
+all    deg_in_band_mean  BCREA-strict sampled-WC  300  45/255/  0  +0.3987 7.90e-38 2.37e-37 +0.856
+all    deg_in_band_mean  BCREA-strict NSGA-II     300  81/219/  0  +0.2204 7.63e-21 7.63e-21 +0.624
+all    best_nominal      BCREA-band   nominal     300   0/299/  1  -0.4480 6.05e-51 2.42e-50 -1.000
+all    best_nominal      BCREA-band   pessimistic 300 173/114/ 13  +0.3520 1.34e-17 1.34e-17 +0.582
+all    best_nominal      BCREA-band   sampled-WC  300   5/238/ 57  -0.2880 3.37e-41 1.01e-40 -0.994
+all    best_nominal      BCREA-band   NSGA-II     300  29/235/ 36  -0.1280 1.72e-29 3.45e-29 -0.800
+all    best_nominal      BCREA-strict nominal     300   0/249/ 51  -0.3520 1.15e-42 4.60e-42 -1.000
+all    best_nominal      BCREA-strict pessimistic 300 191/ 89/ 20  +0.5440 4.17e-23 8.34e-23 +0.682
+all    best_nominal      BCREA-strict sampled-WC  300  49/219/ 32  -0.1920 2.97e-37 8.92e-37 -0.898
+all    best_nominal      BCREA-strict NSGA-II     300  88/158/ 54  -0.0320 6.26e-05 6.26e-05 -0.294
